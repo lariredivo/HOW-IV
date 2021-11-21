@@ -1,0 +1,22 @@
+.cadastro{
+    font-size: 2.5rem;
+    text-align: center;
+    border-style: ridge;
+    background-color: #ffc107;
+}
+
+img{
+    width: 50px;
+    height: 50px;
+}
+
+.cadastro_itens{
+    display: flex;
+    justify-content: center;
+}
+
+.imagem {
+    width 50px;
+    height: 50px;
+}
+
